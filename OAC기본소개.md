@@ -31,7 +31,7 @@ OAC Enterprise Edition의 경우 메뉴에서 데이터 복제 및 복제 접속
 
 우상단의 4개 햄버거 버튼을 누른 경우 다음과 같은 기능들을 수행할 수 있습니다.
 
-OAC Standard Edition의 경우 프로젝트 임포트, 데이터 집합 저장 영역, 홈페이지 사용자 정의 등의 기능을 수행할 수 있습니다.
+OAC Standard Edition의 경우 프로젝트 임포트, 데이터 집합 저장 영역, 홈페이지 사용자 정의 기능을 수행할 수 있습니다.
 ![se](/img/task_se.jpg "Task")
 
 OAC Enterprise Edition의 경우 SE의 기능 외에 데이터 모델러 열기, 클래식홈 열기 기능을 추가로 수행할 수 있습니다.
