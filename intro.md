@@ -5,6 +5,7 @@
 #### Oracle Analytics Cloud Standard Edition(OAC SE) ####
 보통 셀프서비스 BI, 데이터 시각화에 중점 둔 솔루션이며, Machin Learning 기능을 추가한 증강분석을 용이하게 하는 솔루션입니다.
 
+
 * 홈
 * 프로젝트
 * 데이터
